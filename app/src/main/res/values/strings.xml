@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Master of Guitar</string>
+    <string name="nombre">¿Con quien tengo el placer de hablar?</string>
+
+    <string name="resumen">En esta aplicacion podras aprender a tocar tus canciones favoritas con cualquier guitarra"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="guitarrista">Guitarrista:</string>
+    <string name="grupo">Grupo:</string>
+    <string name="guitarra">Guitarra:</string>
+    <string name="info">%s, estás usando la versión 2 de MasterOfGuitar</string>
+
+</resources>
